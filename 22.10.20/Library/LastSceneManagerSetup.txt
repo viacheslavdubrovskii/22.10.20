@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/HOME/Desktop/Git/22.10.20 repo/22.10.20/Assets/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
